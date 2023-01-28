@@ -10,6 +10,8 @@
 #      decision tree on paper the program was simple to code.
 # 5. How long did it take for you to complete the assignment?
 #      1hr
+# 6. Youtube demo
+#      https://youtu.be/Qyfn_7WKG68
 while True:
     own_all = input("Do you own all green properties? (y/n)\n> ")
     if own_all == 'y' or own_all == 'Y' or own_all == "yes":
