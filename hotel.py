@@ -1,14 +1,14 @@
 # 1. Name:
 #      M. Scott O'Connor
-# 2. Assignment Name:
+# 2. Project Name:
 #      Lab 04: Monopoly
-# 3. Assignment Description:
+# 3. Project Description:
 #      This program will determine if you are able to place a hotel on Pennsylvania Avenue
 #      in a game of monopoly.
 # 4. What was the hardest part? Be as specific as possible.
 #      The hardest part of making this program was was the planning before hand. Once I got
 #      decision tree on paper the program was simple to code.
-# 5. How long did it take for you to complete the assignment?
+# 5. How long did it take for you to complete the project?
 #      1hr
 # 6. Youtube demo
 #      https://youtu.be/Qyfn_7WKG68
